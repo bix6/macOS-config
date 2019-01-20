@@ -20,3 +20,4 @@ alias ll='ls -lhA'
 # cd
 alias cd..='cd ..'
 alias ..='cd ..'
+alias cdd='cd ~/Desktop'
