@@ -17,7 +17,11 @@ alias ls='ls -F'
 alias sl='ls'
 # -l long format, -h unit suffixes, -A show all except . and ..
 alias ll='ls -lhA'
-# cd
 alias cd..='cd ..'
 alias ..='cd ..'
 alias cdd='cd ~/Desktop'
+alias nbp='nano .bash_profile'
+alias p3='python3'
+alias va='source venv/bin/activate'
+alias dis='cd ~/Desktop/a-dispatch-report'
+alias p3m='python3 main.py'
